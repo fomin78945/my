@@ -4,6 +4,7 @@ A mutual fund is a company that pools money from many investors and
 invests the money in stocks, bonds, short-term money-market instruments, other securities or assets, or some combination of these investments. The combined holdings the mutual fund owns are known as its
 portfolio. Each share represents an investor’s proportionate ownership
 of the fund’s holdings and the income those holdings generate.
+![Branching](mut_fonds.png)
 CHARACTERISTICS OF FUNDS
 Some of the traditional, distinguishing characteristics of mutual funds
 include the following:
